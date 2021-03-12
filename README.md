@@ -1,2 +1,3 @@
 # django_httpd
-A django app with apache.
+Dockerize the django app with apache.
+This project is for deploying django app in docker with apache webserver.
